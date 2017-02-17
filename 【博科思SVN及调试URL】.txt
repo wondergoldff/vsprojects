@@ -1,0 +1,17 @@
+URL: http://localhost:28575/AnsYingWeb/Home/Main
+
+
+代码SVN： http://115.28.29.233/svn/ansying/SourceCode
+账号：goldmonkey    
+密码：Bks?453
+
+DataBase online: 115.28.186.81  AnsYing    AnsYingAnsYing
+
+ <add name="AnsYingLink" connectionString="Data Source=115.28.186.81;database=AnsYingBasicDataNew;uid=AnsYing;pwd=AnsYingAnsYing"/>
+
+
+前台 http://ansying.bookoes.org/AnsYingWeb/Login/Index
+个人admin  密码aaa111！ 企业 common1 密码aaa111!   
+
+后台 http://ansying.bookoes.org/Manage/Home
+admin  123456
